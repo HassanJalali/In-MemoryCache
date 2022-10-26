@@ -1,4 +1,4 @@
-Caching in .NET Core 
+Caching in .NET Core
 
 What is Caching?
 
