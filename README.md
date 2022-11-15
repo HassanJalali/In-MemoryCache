@@ -1,5 +1,3 @@
-Caching in .NET Core
-
 What is Caching?
 
 The cache is the memory storage that is used to store the frequent access data into the temporary storage, it will improve the performance drastically and avoid the unnecessary database hit and store frequently used data into the buffer whenever we need it.
